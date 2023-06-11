@@ -20,7 +20,7 @@ timezone:
 
 title: CEC # the main title
 
-tagline: Espaço de Tencologia # it will display as the sub-title
+tagline: Espaço de Tecnologia # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Código e Conteúdo é um projeto de estudos, desenvolvimento e tecnologia.
@@ -77,10 +77,10 @@ theme_mode: [light]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://raw.githubusercontent.com/codigoeconteudo/cdn/main
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -108,10 +108,10 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: # boolean, keep empty means false
+    enabled: true # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development|production]
+    env: [production]
 
 pwa:
   enabled: true # the option for PWA feature
