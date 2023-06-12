@@ -13,12 +13,12 @@ baseurl: ""
 lang: pt-BR
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: cec\blog>
+title: cec|blog
 
 tagline: Espaço de Tecnologia # it will display as the sub-title
 
