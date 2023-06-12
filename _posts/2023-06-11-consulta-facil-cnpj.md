@@ -13,7 +13,7 @@ Projeto em desenvolvimento de uma página de consultas de CNPJ, consumindo a API
 
 Projeto que disponibiliza uma API aberta para consultas de CNPJ. 
 
-Saiba Mais: https://docs.minhareceita.org/
+Saiba Mais: [Minha Receita](https://docs.minhareceita.org/)
 
 ## Status do Projeto
 
@@ -23,4 +23,4 @@ O projeto ainda está em desenvolvimento, mas já está disponível para testes.
 
 ## Visite o Projeto
 
-Para acessar a página de consulta de CNPJ, acesse: https://cnpj.codigoeconteudo.com.br/
+Para acessar a página de consulta de CNPJ, acesse: [Consulta Fácil CNPJ](https://cnpj.codigoeconteudo.com.br/)
