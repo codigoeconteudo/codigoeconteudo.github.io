@@ -77,10 +77,10 @@ No geral, a API Gateway é uma solução útil para simplificar o gerenciamento 
 
 ## Referências
 
-Amazon API Gateway. Disponível em: https://aws.amazon.com/pt/api-gateway/.
+[Amazon API Gateway](https://aws.amazon.com/pt/api-gateway/).
 
-Apigee Edge. Disponível em: https://cloud.google.com/apigee.
+[Apigee Edge](https://cloud.google.com/apigee).
 
-Kong. Disponível em: https://konghq.com/.
+[Kong](https://konghq.com/).
 
-Azure API Management. Disponível em: https://azure.microsoft.com/pt-br/services/api-management/.
+[Azure API Management](https://azure.microsoft.com/pt-br/services/api-management/).
