@@ -4,7 +4,7 @@ author: gsdesenvolvedor
 date: 2023-03-19 01:01:00 +0300
 categories: [APIs]
 tags: [api-gateway, api, apis]
-render_with_liquid: false
+pin: true
 ---
 
 ## Insight
