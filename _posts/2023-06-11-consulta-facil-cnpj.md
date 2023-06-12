@@ -3,7 +3,7 @@ title: Consulta Fácil CNPJ
 author: gsdesenvolvedor
 date: 2023-06-11 21:56:00 +0300
 categories: [Projetos do Código e Conteúdo]
-tags: [apis, consumindo api]
+tags: [APIs, Consumindo API]
 pin: true
 ---
 
