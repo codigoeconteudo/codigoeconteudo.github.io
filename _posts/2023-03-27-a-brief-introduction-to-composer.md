@@ -1,12 +1,10 @@
 ---
-title: Uma breve introdução ao Composer
-author: Gabriel Souza (gsdesenvolvedor)
+title: Uma Breve Introdução ao Composer
+author: gsdesenvolvedor
 date: 2023-03-27 01:01:00 +0300
 categories: [Gerenciadores de Pacotes]
 tags: [composer, php, packagist, namespaces, autoloading, autoload]
 ---
-
-Uma breve introdução ao Composer
 
 ## Insight
 
