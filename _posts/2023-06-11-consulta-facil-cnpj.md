@@ -11,7 +11,7 @@ pin: true
 
 Projeto em desenvolvimento de uma página de consultas de CNPJ, consumindo a API do "Minha Receita". 
 
-Projeto que disponibiliza uma API aberta para consultas de CNPJ. 
+Minha Receita é um projeto que disponibiliza uma API aberta para consultas de CNPJ. 
 
 Saiba Mais: [Minha Receita](https://docs.minhareceita.org/)
 
