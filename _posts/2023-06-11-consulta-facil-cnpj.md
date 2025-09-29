@@ -4,7 +4,7 @@ author: gsdesenvolvedor
 date: 2023-06-11 21:56:00 +0300
 categories: [Projetos do Código e Conteúdo]
 tags: [APIs, Consumindo API]
-pin: true
+pin: false
 ---
 
 ## Sobre o Projeto
@@ -22,5 +22,6 @@ O projeto ainda está em desenvolvimento, mas já está disponível para testes.
 ![Consulta Fácil CNPJ](https://raw.githubusercontent.com/codigoeconteudo/cdn/main/blog/posts/consulta-facil-cnpj.png)
 
 ## Visite o Projeto
+
 
 Para acessar a página de consulta de CNPJ, acesse: [Consulta Fácil CNPJ](https://cnpj.codigoeconteudo.com.br/)
