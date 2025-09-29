@@ -7,8 +7,6 @@ tags: [Deploy, Node.js, AWS]
 pin: true
 ---
 
-# Deploy de uma Aplicação Backend Node.js
-
 ## Pré-requisitos
 
 - Servidor com Ubuntu/Linux
@@ -145,3 +143,4 @@ pm2 save
 
 - [Documentação do PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
 - [Documentação do Nginx](https://nginx.org/en/docs/)
+
