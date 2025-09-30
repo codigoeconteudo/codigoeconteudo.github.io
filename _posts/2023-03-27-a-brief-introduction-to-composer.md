@@ -4,7 +4,7 @@ author: gsdesenvolvedor
 date: 2023-03-27 01:01:00 +0300
 categories: [Gerenciadores de Pacotes]
 tags: [Composer, PHP, Packagist, Namespaces, Autoloading, Autoload]
-pin: true
+pin: false
 ---
 
 ## Insight

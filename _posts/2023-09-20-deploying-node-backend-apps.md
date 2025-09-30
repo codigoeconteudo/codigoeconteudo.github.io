@@ -4,7 +4,7 @@ author: gsdesenvolvedor
 date: 2025-09-29 13:31:00 +0300
 categories: [Deploy, Node.js, AWS]
 tags: [Deploy, Node.js, AWS]
-pin: true
+pin: false
 ---
 
 ## Pré-requisitos
