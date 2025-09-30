@@ -4,7 +4,7 @@ author: gsdesenvolvedor
 date: 2025-09-29 13:11:00 +0300
 categories: [Automation]
 tags: [Automation, N8N]
-pin: true
+pin: false
 ---
 
 ## O que é o n8n?

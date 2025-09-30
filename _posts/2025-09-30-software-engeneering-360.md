@@ -1,7 +1,7 @@
 ---
 title: 360 - Engenharia de Software
 author: gsdesenvolvedor
-date: 2025-09-29 13:11:00 +0300
+date: 2025-09-30 08:30:00 +0300
 categories: [CEC-360]
 tags: [Software Engeneering, CEC-360]
 pin: false
